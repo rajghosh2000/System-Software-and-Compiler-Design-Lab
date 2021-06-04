@@ -11,7 +11,7 @@
             B->b|#
             C->c
             D->d|#
-			E->e|#
+	    E->e|#
 				FIRST : 
 					First of S : abc
 					First of A : a#
