@@ -1,4 +1,4 @@
-# Assignmnet 7
+# Assignmnet 7 LL1 Parser
 
 Take a sample grammar, such as the simple unambiguous arithmetic expression grammar E-<E+T|T, ....><br>
 (a) Write routines to compute the FIRST and FOLLOW sets for the non-terminals of the grammar.

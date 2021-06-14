@@ -1,0 +1,3 @@
+# Assignmnet 5 Mini 3 Address Code Assembler
+
+Write an assembler for a machine with a simple machine language and corresponding simple assembly language. Allow 5-7 machine instructions, and three addressing modes for operands- register, immediate (one byte), and memory. Assume there are 8 registers, and memory addresses are 16-bits. Allow forward referencing. The machine instructions should be compact. Your program should be well documented containing the details of the assembly language and the machine language.

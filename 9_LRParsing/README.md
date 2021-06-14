@@ -1,0 +1,3 @@
+# Assignmnet 9 LR Parser
+
+IWrite a LR parser program in C. Define the data structure for the parsing table in such a way that it can be initialised easily (manually) for a given grammar. Remember that the LR parser routine is independent of particular grammar. Take a simple grammar, eg., expression grammar, compute the parsing table entries by hand using the steps discussed in the class, and initialize the table in your program with these values. Try to parse input expressions scanned by a lexical analyser (which can be easily created using flex). The output of the parser should be SUCCESS or FAILURE depending on the input. In case of FAILURE the parser should indicate the incorrect token in the input.
